@@ -9,8 +9,7 @@ AI-powered research pipeline with:
 
 ## 🚀 Quick Start
 ```bash
-# Clone repo
-git clone https://github.com/yourusername/Deep_Research_Agentic_System.git
+git clone https://github.com/Utkarsh-pixel1189/Deep_Research_Agentic_System_MistralAI.git
 
 # Install dependencies
 pip install -r requirements.txt

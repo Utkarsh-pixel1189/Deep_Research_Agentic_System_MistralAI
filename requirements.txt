@@ -1,0 +1,10 @@
+langchain
+langgraph
+tavily-python
+mistralai
+python-dotenv
+typing-extensions
+langchain-community
+huggingface_hub
+streamlit
+langchain_mistralai

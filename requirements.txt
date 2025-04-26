@@ -1,10 +1,11 @@
 langchain
-langgraph
-tavily-python
 mistralai
-python-dotenv
 typing-extensions
 langchain-community
 huggingface_hub
-streamlit
-langchain_mistralai
+langgraph==0.0.31
+langchain-core==0.1.33
+tavily-python==0.3.1
+langchain-mistralai==0.1.0
+streamlit==1.35.0
+python-dotenv==1.0.1
